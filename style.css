@@ -1,0 +1,75 @@
+body{
+    font-family:'Yomogi',cursive;
+    margin: 0px;
+    padding: 0px;
+    
+}
+.intro{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
+span{
+   color: rgb(250, 127, 83);
+   font-weight: bold;
+}
+p{
+    padding-bottom: 5px;
+}
+a{
+    text-decoration: none;
+    font-weight: 900;
+    background-image:linear-gradient(to bottom right, red, yellow);
+    padding: 8PX 20px;
+    color: rgb(7, 10, 12);
+    border-radius: 5px;
+
+}
+h1{
+    padding: 10px;
+}
+.secrule{
+    display:flex;
+    padding: 10px 40px;
+}
+.descro{
+    width: 50%;
+}
+.pico{
+    width: 50%;
+    margin-left: 20px;
+}
+div img{
+    width: 85%;
+    padding-left:40px;    
+}
+.dream{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.box{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.box h1{
+    font-weight 900px;
+    color: coral;
+}
+.box div{
+    width: 40%;
+    margin-right: 5%;
+    margin-left: 5%;
+    padding-left: 20px;
+    
+   
+}
+.expo h1{
+color: rgb(173, 29, 192);
+margin-left: 15px;
+    
+}
+.item{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 10px;  
+}
