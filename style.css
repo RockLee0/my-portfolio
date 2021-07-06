@@ -71,5 +71,10 @@ margin-left: 15px;
 }
 .item{
     box-shadow: 10px 10px 40px gray;
-    border-radius: 10px;  
+    border-radius: 10px;
+
+}
+
+footer{
+    text-align: center;
 }
